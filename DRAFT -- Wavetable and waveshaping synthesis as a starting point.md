@@ -131,7 +131,7 @@ Tο πρώτο synth επιλέγει (όπως και όλα τα ακόλου�
 
 Αυτή η `Pattern` επιβάλλεται να σημειωθεί ότι μπορεί να χρησιμοποιηθεί και από τα προηγούμενα synth, αν τους προστεθεί ένα `EnvGen` που επιτρέπει την απελευθέρωσή τους μετά το κλείσιμο της περιβάλλουσας μέσω του `doneAction: 2`, όπως γίνεται στο παραπάνω synth `\Hayperc`. Αυτό είναι κάτι που δε θα μπορούσε να γίνει χωρίς την απελευθέρωση των synths, λόγω του πεπερασμένου μεγέθους της μνήμης του συστήματος, αλλά και της φύσης των πιο προηγούμενων synths που πλησιάζει τον χαρακτήρα του drone (βλ. προβλήματα ευκρίνειας και έντασης).  
 
-## Βιβλιογραφία-Παραπομπές
+## Βιβλιογραφία
 
 1.	Bristow-Johnson, R. 1996. Wavetable synthesis 101, a fundamental perspective. In *Audio Engineering Society Convention 101. Audio Engineering Society*. ResearchGate https://www.researchgate.net/publication/228992574_Wavetable_Synthesis_101_A_Fundamental_Perspective (accessed April 3, 2019)
 2.	Cook, P. R. 2002. *Real sound synthesis for interactive applications*. AK Peters/CRC Press
@@ -141,5 +141,11 @@ Tο πρώτο synth επιλέγει (όπως και όλα τα ακόλου�
 6.	Schwarz, D. 2006. Concatenative sound synthesis: The early years. *Journal of New Music Research*, 35(1), 3-22
 7.	Smyth, T. 2012. *CMPT 468: Lecture 9, Waveshaping Synthesis*. Computing Science, Simon Fraser University. Web Site: https://www.cs.sfu.ca/~tamaras/waveshapeSynth/waveshapeSynth.pdf (accessed 31 March, 2019)
 8.	Tolonen, T., Välimäki, V., & Karjalainen, M. 1998. *Evaluation of modern sound synthesis methods*
+
+### Παραπομπές
+
+1. Fieldsteel, Ε. 2017. *SuperCollider Live Stream 2017.08.02 Waveshaping, Wavetable Synthesis*. Streaming video. https://www.youtube.com/watch?v=q1VQAZKh6 (accessed March 13, 2019).
+
+
 
 
