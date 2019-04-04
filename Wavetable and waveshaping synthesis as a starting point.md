@@ -135,14 +135,14 @@ Tο πρώτο synth επιλέγει (όπως και όλα τα ακόλου�
 
 ## Βιβλιογραφία
 
-1.	Bristow-Johnson, R. 1996. Wavetable synthesis 101, a fundamental perspective. In *Audio Engineering Society Convention 101. Audio Engineering Society*. ResearchGate https://www.researchgate.net/publication/228992574_Wavetable_Synthesis_101_A_Fundamental_Perspective (accessed April 3, 2019)
-2.	Cook, P. R. 2002. *Real sound synthesis for interactive applications*. AK Peters/CRC Press
-3.	Miranda, E. 2002. *Computer sound design: Synthesis techniques and programming with cdrom*. Focal Press
-4.	Misra, A., & Cook, P. R. 2009. *Toward Synthesized Environments: A Survey of Analysis and Synthesis Methods for Sound Designers and Composers*. In International Computer Music Conference, August 16-21,2009. Schulich School of Music of McGill University
-5.	Roads, C., & Strawn, J. 1996. *The computer music tutorial*. MIT press
-6.	Schwarz, D. 2006. Concatenative sound synthesis: The early years. *Journal of New Music Research*, 35(1), 3-22
-7.	Smyth, T. 2012. *CMPT 468: Lecture 9, Waveshaping Synthesis*. Computing Science, Simon Fraser University. Web Site: https://www.cs.sfu.ca/~tamaras/waveshapeSynth/waveshapeSynth.pdf (accessed 31 March, 2019)
-8.	Tolonen, T., Välimäki, V., & Karjalainen, M. 1998. *Evaluation of modern sound synthesis methods*
+1.	Bristow-Johnson, R. 1996. Wavetable synthesis 101, a fundamental perspective. In *Audio Engineering Society Convention 101. Audio Engineering Society*. ResearchGate https://www.researchgate.net/publication/228992574_Wavetable_Synthesis_101_A_Fundamental_Perspective (accessed April 3, 2019).
+2.	Cook, P. R. 2002. *Real sound synthesis for interactive applications*. AK Peters/CRC Press.
+3.	Miranda, E. 2002. *Computer sound design: Synthesis techniques and programming with cdrom*. Focal Press.
+4.	Misra, A., & Cook, P. R. 2009. *Toward Synthesized Environments: A Survey of Analysis and Synthesis Methods for Sound Designers and Composers*. In International Computer Music Conference, August 16-21,2009. Schulich School of Music of McGill University.
+5.	Roads, C., & Strawn, J. 1996. *The computer music tutorial*. MIT press.
+6.	Schwarz, D. 2006. Concatenative sound synthesis: The early years. *Journal of New Music Research*, 35(1), 3-22.
+7.	Smyth, T. 2012. *CMPT 468: Lecture 9, Waveshaping Synthesis*. Computing Science, Simon Fraser University. Web Site: https://www.cs.sfu.ca/~tamaras/waveshapeSynth/waveshapeSynth.pdf (accessed 31 March, 2019).
+8.	Tolonen, T., Välimäki, V., & Karjalainen, M. 1998. *Evaluation of modern sound synthesis methods*.
 
 ### Παραπομπές
 
