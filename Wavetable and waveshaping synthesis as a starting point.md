@@ -146,7 +146,7 @@ Tο πρώτο synth επιλέγει (όπως και όλα τα ακόλου�
 
 ### Παραπομπές
 
-1. Fieldsteel, Ε. 2017. *SuperCollider Live Stream 2017.08.02 Waveshaping, Wavetable Synthesis*. Streaming video. https://www.youtube.com/watch?v=q1VQAZKh6 (accessed March 13, 2019).
+1. Fieldsteel, Ε. 2017. *SuperCollider Live Stream 2017.08.02 Waveshaping, Wavetable Synthesis*. Streaming video. https://www.youtube.com/watch?v=q1VQAZKh6_8 (accessed March 13, 2019).
 
 
 
