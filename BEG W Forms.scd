@@ -67,7 +67,7 @@ Pbindef(\mainpattern,
 	\atk, 0.005,
 	\rel, Pexprand(0.01, 0.6, inf),
 	\amp, Pexprand(0.05,0.5,inf),
-	\pan, Pwhite(-0.9, 0.9, inf),
+	\pan, Pwhite(-0.89, 0.89, inf),
 	\out, 8
 	)
 )
