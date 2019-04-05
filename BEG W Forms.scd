@@ -229,7 +229,7 @@ r.stop;
 
 
 // THIS LAST SYNTH CREATES MOSTLY PERCUSSIVE SOUNDS OF DIFFERENT SPECTRAL CONTENT AND ENVELOPE EACH TIME
-.(SynthDef.new(\Hayperc,
+(SynthDef.new(\Hayperc,
 {var sigall, ampfol;
 	sigall = 12.do{
 			arg i, bufnum = ~wavz[\BUFFERS].choose, bwr = rrand(0.00001,0.5);
