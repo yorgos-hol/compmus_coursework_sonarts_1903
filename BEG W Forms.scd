@@ -63,11 +63,11 @@ Pbindef(\mainpattern,
 	\in, 6,
 	\dur, 1/16,
 	\stretch, 1.875,
-	\note, Prand([0,3,5,9,10,12],inf),
+	\note, Prand([0,1,5,9,10,12],inf),
 	\atk, 0.005,
-	\rel, Pexprand(0.01, 0.5, inf),
+	\rel, Pexprand(0.01, 0.6, inf),
 	\amp, Pexprand(0.05,0.5,inf),
-	\pan, Pwhite(-0.8, 0.8, inf),
+	\pan, Pwhite(-0.9, 0.9, inf),
 	\out, 8
 	)
 )
