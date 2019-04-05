@@ -1,4 +1,4 @@
-# compmus_coursework_sonarts_1903
+# compmus_coursework_sonarts_1903 // Wavetable and Waveshaping synthesis  on SuperCollider
 
 The midterm exams project on SuperCollider for 'Computer Music' class at SONARTS, Corfu, Greece, class 2018-2019
 
