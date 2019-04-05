@@ -1,4 +1,4 @@
-# Δημιουργία synths χρησιμοποιώντας τη wavetable synthesis ως αφετηρία και τεχνικές waveshaping ως μέσο
+# Δημιουργία synths στο SuperCollider χρησιμοποιώντας τη wavetable synthesis ως αφετηρία και τεχνικές waveshaping ως μέσο
 ### Γιώργος Χωλόπουλος, 4/4/2019
 ## Σύνοψη
 
