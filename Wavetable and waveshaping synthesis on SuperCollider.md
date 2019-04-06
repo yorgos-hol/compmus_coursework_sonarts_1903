@@ -12,7 +12,7 @@
 
 ### Η μέθοδος σύνθεσης wavetable 
 
-Ανήκει στις αλυσιδωτής/διαδοχικής μορφής τεχνικές σύνθεσης (concatenative synthesis), στις οποίες ηχητικά δείγματα ανατοποθετούνται στο χρονικό πεδίο (Misra & Cook 2009). Η τεχνική wavetable αναπαράγει επαναλαμβανόμενα πολύ μικρά ηχητικά δείγματα (μερικών εκατοντάδων sample frames) και διακρίνεται σε single wavecycle (ή Fixed-waveform Table-lookup Synthesis (Roads & Strawn 1996: 44-7)), multiple wavecycle, sampling and crossfading (Miranda 2002: 90-7). 
+Ανήκει στις αλυσιδωτής/διαδοχικής μορφής τεχνικές σύνθεσης (concatenative synthesis), στις οποίες ηχητικά δείγματα ανατοποθετούνται στο χρονικό πεδίο (Misra & Cook 2009). Η τεχνική wavetable αναπαράγει επαναλαμβανόμενα πολύ μικρά ηχητικά δείγματα (μερικών εκατοντάδων sample frames) και διακρίνεται σε single wavecycle (ή Fixed-waveform Table-lookup Synthesis (Roads & Strawn 1996: 44-7)), multiple wavecycle, sampling και crossfading (Miranda 2002: 90-7). 
 
 Πρέπει ωστόσο να σημειώσουμε ότι το crossfading χρησιμοποιείται συνήθως σε όλες αυτές σε μικρότερο ή μεγαλύτερο βαθμό - στην concatenative synthesis ένας παράγοντας είναι η απόσταση της διαδοχής (concatenation distance) από το ένα δείγμα στο άλλο, γεγονός που μας κατευθύνει στην εισαγωγή crossfading (Schwarz 2006). Γι αυτό και μία διαφορετική ταξινόμηση χωρίζει τη σύνθεση μέσω wavetable σε wavetable crossfading, στις οποίες ανήκουν οι παραπάνω υποκατηγορίες, και σε wavetable stacking. Η τελευταία είναι μία μορφή προσθετικής σύνθεσης (additive synthesis), η οποία κατασκευάζει υβριδικές ηχητικές υφές στοιβάζοντας πολλαπλά στρώματα κυματομορφών (πχ. 4-8 σε εμπορικά synths) με αποτέλεσμα την κατασκευή υβριδικών ηχητικών υφών (Tolonen, Välimäki & Karjalainen 1998: 13). 
 
